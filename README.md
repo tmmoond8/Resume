@@ -8,7 +8,22 @@
 
 * 기간 : 2015.02 ~ 2016.05
 + Hour(Picup) 서비스
-  + 소개 :
+  + 소개 : 사람들과의 만남 속에서 생성된 사진을 가장 쉽고 <br>빠르게 공유하는 방법을 제공하는 서비스
+  + 역할 : 안드로이드
+  * 2016.05 개발 중단
+  
+<br>
+<img src="Images/hour_intro1.jpg" width="160"/> 
+<img src="Images/hour_intro2.jpg" width="160"/> 
+<img src="Images/hour_intro3.jpg" width="160"/> 
+<br>
+<img src="Images/hour_photo.jpg" width="160"/> 
+<img src="Images/hour_album_list.jpg" width="160"/> 
+<img src="Images/hour_album.jpg" width="160"/> 
+<br>
+<img src="Images/hour_navi.jpg" width="160"/>  
+<img src="Images/hour_photo.jpg" width="160"/>  
+<img src="Images/hour_friends.jpg" width="160"/> 
 
 <br><br>
 ## 2. 개인 프로젝트
@@ -20,7 +35,9 @@
 * 사용 기술 : Android, Linux Apach server
 * 서비스 종료
 
- 신장성당을 다니는 신자분들께서 더욱 더 많은 소통을 하며, 언제 어디서나 두꺼운 기도책자, 성경책을 가지지 않아도 신앙 생활을 하실 수 있도록 도움이 되는 어플리케이션
+ 신장성당을 다니는 신자분들께서 더욱 더 많은 소통을 하며, 언제 어디서나 
+ 두꺼운 기도책자, 성경책을 가지지 않아도 신앙 생활을 하실 수 있도록 
+ 도움이 되는 어플리케이션
 
 <img src="Images/Sinjang_catholic_crunch_MENU.png" width="160"/> 
 <img src="Images/Sinjang_catholic_crunch_SKEDULE.png" width="160"/>
