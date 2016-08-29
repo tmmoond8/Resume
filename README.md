@@ -11,7 +11,7 @@
   + 소개 :
 
 <br><br>
-## 2. 개프로젝트
+## 2. 개인 프로젝트
 
 <br>
 ### 2.1 신장성당 커뮤니티 앱
@@ -25,6 +25,7 @@
 <img src="Images/Sinjang_catholic_crunch_MENU.png" width="160"/> 
 <img src="Images/Sinjang_catholic_crunch_SKEDULE.png" width="160"/>
 <img src="Images/Sinjang_catholic_crunch_SONG.png" width="160"/>
+<br>
 <img src="Images/Sinjang_catholic_crunch_WEEKLY_SHEETS.png" width="160"/>
 <img src="Images/Sinjang_catholic_crunch_BIBLE.png" width="160"/>
 <img src="Images/Sinjang_catholic_crunch_PREY.png" width="160"/>
@@ -35,6 +36,7 @@
 
 * 개발 기간 : 2015.09 ~ 2015.11
 * 사용 기술 : wordpress 4.3.5
+* 링크 주소 : <http://edubob.co.kr/>
 
 
 회원으로는 선생님, 학생들,  학부모가 있으며, 각 권한이 달라서 선생님들은 강의 동영상을 업로드 하면 
@@ -42,7 +44,8 @@
 
 <img src="Images/edubob_main_mobile.png" width="160"/> 
 <img src="Images/edubob_board_mobile.png" width="160"/> 
-<img src="Images/edubob_board_on_mobile.png" width="160"/> 
+<br>
+<img src="Images/edubob_boards_on_mobile.png" width="160"/> 
 <img src="Images/edubob_lecture.png" width="160"/> 
 
 <br>
@@ -52,15 +55,16 @@
 
  * 개발 기간 : 2016.08~
  * 사용 기술 : Android
- * Google Play Link : 
- * Github resitory : 
+ * Google Play Link :  <https://play.google.com/store/apps/details?id=project.moonti.wonderplace>
+ * Github resitory : <https://github.com/tmmoond8/WonderPlace>
 
 
-<img src="Images/wonder_place_menu.png" width="160"/> 
-<img src="Images/wonder_place_list.png" width="160"/> 
-<img src="Images/wonder_place_area_dialog.png" width="160"/> 
-<img src="Images/wonder_place_detail.png" width="160"/> 
-<img src="Images/wonder_place_area_cat.png" width="160"/> 
+<img src="Images/wonder_place_menu.jpeg" width="160"/> 
+<img src="Images/wonder_place_list.jpeg" width="160"/> 
+<img src="Images/wonder_place_area_dialog.jpeg" width="160"/> 
+<br>
+<img src="Images/wonder_place_detail.jpeg" width="160"/> 
+<img src="Images/wonder_place_area_cat.jpeg" width="160"/> 
 
 
 <br>
@@ -73,6 +77,7 @@
 <img src="Images/IM_screen_recoder_mfc.png" width="160"/> 
 <img src="Images/IM_screen_recoder_main.png" width="160"/> 
 <img src="Images/IM_screen_recoder_setting.png" width="160"/> 
+<br>
 <img src="Images/IM_screen_recoder_running.png" width="160"/> 
 <img src="Images/IM_screen_recoder_encoding.png" width="160"/> 
 
