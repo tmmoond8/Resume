@@ -22,7 +22,6 @@
 <img src="Images/hour_album.jpg" width="160"/> 
 <br>
 <img src="Images/hour_navi.jpg" width="160"/>  
-<img src="Images/hour_photo.jpg" width="160"/>  
 <img src="Images/hour_friends.jpg" width="160"/> 
 
 <br><br>
@@ -32,7 +31,7 @@
 ### 2.1 신장성당 커뮤니티 앱
 
 * 개발 기간 : 2014.06 ~ 2014.08
-* 사용 기술 : Android, Linux Apach server
+* 사용 기술 : Android, Linux Apach server, xe
 * 서비스 종료
 
  신장성당을 다니는 신자분들께서 더욱 더 많은 소통을 하며, 언제 어디서나 
