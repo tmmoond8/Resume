@@ -19,7 +19,8 @@
 <br>
 <img src="Images/hour_photo.jpg" width="160"/> 
 <img src="Images/hour_album_list.jpg" width="160"/> 
-<img src="Images/hour_album.jpg" width="160"/> 
+<img src="Images/hour_album.jpg" width="160"/>
+<br>
 <img src="Images/hour_navi.jpg" width="160"/>  
 <img src="Images/hour_friends.jpg" width="160"/> 
 
