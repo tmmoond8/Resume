@@ -60,7 +60,6 @@
 
 <img src="Images/edubob_main_mobile.png" width="160"/> 
 <img src="Images/edubob_board_mobile.png" width="160"/> 
-<br>
 <img src="Images/edubob_boards_on_mobile.png" width="160"/> 
 <img src="Images/edubob_lecture.png" width="160"/> 
 
@@ -83,8 +82,12 @@
 <img src="Images/wonder_place_area_cat.jpeg" width="160"/> 
 
 
+
 <br>
-### 3 대학교 졸업 작품
+## 3 팀 프로젝트
+
+
+### 3.1 대학교 졸업 작품 - IM Screen Recoder
 
  * 개발 기간 : 2014.04 ~ 2014.09
  * 사용 기술 : Android, ADB , MFC, ffmpeg, mp4parser
@@ -96,4 +99,21 @@
 <br>
 <img src="Images/IM_screen_recoder_running.png" width="160"/> 
 <img src="Images/IM_screen_recoder_encoding.png" width="160"/> 
+
+
+
+<br>
+
+## 4 Thumb 프로젝트
+
+### 4.1 socket.io를 이용한 웹 채팅
+
+ * 개발 기간 : 2016.09 ~
+ * 사용 기술 : Html5, css , jQuery, socket.io, node.js
+	HTML5 UP 템플릿 사용
+ 
+<img src="Images/webchatting01.png" height="480"/> 
+<img src="Images/webchatting02.png" height="480"/> 
+<img src="Images/webchatting03.png" height="480"/> 
+
 
