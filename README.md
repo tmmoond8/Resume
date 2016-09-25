@@ -68,7 +68,7 @@
 
 공공 데이터인 Tour API 3.0을 이용한 관광 정보 애플리케이션.
 
- * 개발 기간 : 2016.08~
+ * 개발 기간 : 2016.07~
  * 사용 기술 : Android
  * Google Play Link :  <https://play.google.com/store/apps/details?id=project.moonti.wonderplace>
  * Github resitory : <https://github.com/tmmoond8/WonderPlace>
@@ -80,6 +80,30 @@
 <br>
 <img src="Images/wonder_place_detail.jpeg" width="160"/> 
 <img src="Images/wonder_place_area_cat.jpeg" width="160"/> 
+
+
+<br>
+### 2.4 책을 읽는 사람끼리 채팅 - Bookk 채팅
+
+책을 검색하여 책에 대한 정보를 볼 수 있고, 해당 책 대화방에 참여하여 같은 책을 읽는 사람들과 대화하며 소통을 할 수 있는 어플
+책에 대한 정보는 Daum 책 API를 사용
+
+
+
+ * 개발 기간 : 2016.08~
+ * 사용 기술 : Android, node.js, socket.io, mysql
+ * Github resitory : <https://github.com/tmmoond8/BookkBookk>
+
+
+<img src="Images/bookk_splash.png" width="160"/> 
+<img src="Images/bookk_search.png" width="160"/> 
+<img src="Images/bookk_chatting_list.png" width="160"/> 
+<br>
+<img src="Images/bookk_book.png" width="160"/> 
+<img src="Images/bookk_chatting.png" width="160"/> 
+<img src="Images/bookk_chating_drawer.png" width="160"/> 
+<br>
+<img src="Images/bookk_profile.png" width="160"/> 
 
 
 
@@ -104,16 +128,17 @@
 
 <br>
 
-## 4 Thumb 프로젝트
+## 4 Side 프로젝트
 
 ### 4.1 socket.io를 이용한 웹 채팅
 
  * 개발 기간 : 2016.09 ~
  * 사용 기술 : Html5, css , jQuery, socket.io, node.js
 	HTML5 UP 템플릿 사용
+ * Github resitory : <https://github.com/tmmoond8/Node-Socket-io-Sample>
  
-<img src="Images/webchatting01.png" height="480"/> 
-<img src="Images/webchatting02.png" height="480"/> 
-<img src="Images/webchatting03.png" height="480"/> 
+<img src="Images/webchatting01.png" height="320"/> 
+<img src="Images/webchatting02.png" height="320"/> 
+<img src="Images/webchatting03.png" height="320"/> 
 
 
