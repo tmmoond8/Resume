@@ -92,7 +92,8 @@
 
  * 개발 기간 : 2016.08~
  * 사용 기술 : Android, node.js, socket.io, mysql
- * Github resitory : <https://github.com/tmmoond8/BookkBookk>
+ * Github resitory(Client - Android) : <https://github.com/tmmoond8/BookkBookk>
+ * GitHub resitory(Server - Node.js) : <https://github.com/tmmoond8/BookkBookkChattingServer>
 
 
 <img src="Images/bookk_splash.png" width="160"/> 
