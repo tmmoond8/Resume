@@ -22,7 +22,7 @@ ___
 
 #### 1.1 (주)사이냅 소프트  
 기간 : 2017.01 ~ 현재  
-현재 네이버 오피스로 서비스되는 웹오피스를 개발하는 팀에서, 슬라이드 클라이언트 파트를 주로 맡아서 개발 및 유지 보수하면서 대용량 서비스를 경험하였습니다.
+현재 네이버 오피스로 서비스되는 웹오피스를 개발하는 팀에서 슬라이드 클라이언트 파트를 맡아 개발 및 유지 보수하였습니다. 대용량 웹서비스에서 발생하는 크로스 브라우징 등의 다양한 이슈를 경험하였습니다.
  변환서버(spring) 리뉴얼에서 클래스 및 데이터 플로우 설계와 구현을 하였습니다.
 
 
@@ -48,18 +48,19 @@ Hour(Picup) 서비스  개발
 ## 2. 개인 프로젝트
 
 <br>
+
 ### 2.1 웹페이지 UI 카피 - tamm's copy
 > Github, Mdn 같은 웹페이지를 따라 구현하면서 html, css를 더 숙련하고자 만들었습니다. 기능은 구현이 되어 있지 않습니다.
 
-개발 기간 : 2018.12 ~ 2019.1
-Github resitory : https://github.com/tmmoond8/web-basic-study
-Demo : http://copy.tammolo.com
+개발 기간 : 2018.12 ~ 2019.1  
+Github resitory : https://github.com/tmmoond8/web-basic-study  
+Demo : http://copy.tammolo.com  
 
 <br>
 
 ### 2.2 멀티 모드 테트리스 - tammtris
 > 리액트로 만든 테트리스 게임입니다. 최대 6명이서 멀티 플레이 게임을 진행할 수 있습니다.  
-넷마블 테트리스를 오마주하여 만들었으며, 팀을 선택하며 여러 아이템을 사용할 수 있습니다.
+넷마블 테트리스를 오마주하여 만들었으며, 팀플이 가능하고 여러 아이템을 사용할 수 있습니다.
 
 
 개발 기간 : 2018.05 ~ 2018.10
@@ -82,12 +83,13 @@ ____
 ___
 
 
-Github resitory : https://github.com/tmmoond8/temtris
-Demo : http://tammtris.tammolo.com
+Github resitory : https://github.com/tmmoond8/temtris  
+Demo : http://tammtris.tammolo.com  
 
 ![](https://user-images.githubusercontent.com/11402468/54478848-0d5d8500-485a-11e9-85f5-31cebba9c221.png)
 
 <br>
+
 ### 2.3 tvN 소사이어티 게임 시즌2 게임 중 하나 - CubeCode
 >[소사이어티 게임 시즌2]라는 tv 프로그램 에서 나온 게임 중 하나를 구현한 것입니다. 한 음절로된 단어가  4개의 부분으로 나뉘어져 제공이되면, 원래의 단어를 찾아내는 게임 입니다.
 
@@ -97,7 +99,7 @@ Demo : http://tammtris.tammolo.com
 Client - React , Socket.io  
 Server - Node.js, Express, Socket.io, Mongoose 
 
-Github resitory : https://github.com/tmmoond8/react_cube-code
+Github resitory : https://github.com/tmmoond8/react_cube-code  
 Demo : http://cubecode.tammolo.com
 
 ![](https://user-images.githubusercontent.com/11402468/54478849-0d5d8500-485a-11e9-8220-6bbf5e20bcad.jpg)
@@ -111,7 +113,7 @@ Demo : http://cubecode.tammolo.com
 개발 기간 : 2016.07~ 2016.09  
 사용 기술 : Android  
 ~~Google Play Link : https://play.google.com/store/apps/details?id=project.moonti.wonderplace~~  
-Github resitory : https://github.com/tmmoond8/WonderPlace
+Github resitory : https://github.com/tmmoond8/WonderPlace  
 
 <br>
 
